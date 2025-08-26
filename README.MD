@@ -81,11 +81,15 @@ I'm a passionate **Full Stack Developer** specializing in **backend development*
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TerenzTuason&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=TerenzTuason&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerenzTuason&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=TerenzTuason&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TerenzTuason&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -104,8 +108,14 @@ I'm a passionate **Full Stack Developer** specializing in **backend development*
 
 I'm always open to discussing new opportunities, collaborations, or just chatting about technology!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/terenz-jetcem-tuason-314564297/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tj.tuason.3/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/terenz-jetcem-tuason-314564297/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/tj.tuason.3/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</div>
 
 ---
 
