@@ -80,7 +80,6 @@ I'm a passionate **Full Stack Developer** specializing in **backend development*
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TerenzTuason&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=TerenzTuason&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
